@@ -1,0 +1,13 @@
+{
+    "name": "page-mod-test",
+    "title": "page-mod-test",
+    "fullName": "page-mod-test",
+    "id": "jid1-ujZTqNi0P2BccQ",
+    "description": "Basic test for PageMod of Moz Addon SDK...",
+    "author": "小胖子．草兒 Grassboy @plurk.com/xuite.net",
+    "homepage": "http://plurk.com/grassboy",
+    "license": "MIT License",
+    "icon": "icons/icon48.png",
+    "icon64": "icons/icon64.png",
+    "version": "0.0.1"
+}
